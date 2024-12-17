@@ -1,1 +1,1 @@
-# PlanEstrategico
+# Grupo3-PlaneamientoEstrategico-TI
